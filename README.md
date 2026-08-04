@@ -66,12 +66,17 @@ In 'experiments/compare_estimators.ipynb', we comare the classical MANOVA and RE
 ## References
 ```bibtex
 @article{MoM2026, 
-  author={Iain Johnstone, Yuchen Wu, and Ran Xie},
-  title={Method of Moments estimation of high-dimensional genetic covariance using a parametric model},  
-  year={2026}, 
-  ...
+  title={Method of Moments Estimation of High-Dimensional Covariance Using a Parametric Model}, 
+  author={Iain M. Johnstone and Yuchen Wu and Ran Xie},
+  year={2026},
+  eprint={2608.01590},
+  archivePrefix={arXiv},
+  primaryClass={stat.ME},
+  url={https://arxiv.org/abs/2608.01590}, 
 }
 ```
-[1] Xie R. Estimating Covariance Matrices within High-Dimensional Random Effects Models. [Order No. ...]. Stanford University; 2026.
+[1] Xie R. (2026) Estimating covariance matrices within high-dimensional random effects models (Doctoral dissertation, Stanford University). Available at: https://doi.org/10.25740/nx184bp5557.
 
-[2] Johnstone I. and Xie R. Nonparametric shrinkage estimation of high-dimensional variance component matrices. ...
+[2] Xie, R., & Johnstone, I. Nonparametric shrinkage estimation of high-dimensional variance component matrices. Manuscript in preparation.
+
+[3] Xie, R., & Johnstone, I. (2024). CLT for Linear Spectral Statistics in High-Dimensional Random Effects Models. arXiv preprint arXiv:2406.03719.
